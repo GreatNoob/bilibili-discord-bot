@@ -13,9 +13,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "superagent": "^7.0.1"
-  },
-  "devDependencies": {
-    "@types/superagent": "^4.1.14"
+    "axios": "^0.24.0"
   }
 }
